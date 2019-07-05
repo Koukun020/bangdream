@@ -1,0 +1,8 @@
+[
+{ "name":"christmas_rip", "type":"directory", "mtime":"Sat, 20 Oct 2018 16:58:51 GMT" },
+{ "name":"halloween_rip", "type":"directory", "mtime":"Sat, 20 Oct 2018 16:58:52 GMT" },
+{ "name":"newyear_rip", "type":"directory", "mtime":"Sat, 20 Oct 2018 16:58:56 GMT" },
+{ "name":"christmas", "type":"file", "mtime":"Sat, 20 Oct 2018 16:58:50 GMT", "size":619195 },
+{ "name":"halloween", "type":"file", "mtime":"Sat, 20 Oct 2018 16:58:51 GMT", "size":1142995 },
+{ "name":"newyear", "type":"file", "mtime":"Sat, 20 Oct 2018 16:58:55 GMT", "size":664140 }
+]
